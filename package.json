@@ -1,6 +1,6 @@
 {
   "name": "moraine-messaging",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Messaging Abstraction",
   "main": "server.js",
   "scripts": {
@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/IvoryPenguin/moraine-messaging",
   "dependencies": {
-    "bluebird": "^2.9.14",
     "lodash": "^3.5.0",
     "stompit": "^0.20.0"
   }

@@ -2,8 +2,7 @@
 
 var _ = require('lodash'),
     events = require('events'),
-    stompit = require('stompit'),
-    Promise = require('bluebird');
+    stompit = require('stompit');
 
 module.exports = function(settings) {
 
