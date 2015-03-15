@@ -1,0 +1,28 @@
+{
+  "name": "moraine-messaging",
+  "version": "0.0.1",
+  "description": "Messaging Abstaction",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IvoryPenguin/moraine-messaging.git"
+  },
+  "keywords": [
+    "stomp",
+    "messaging"
+  ],
+  "author": "Aaron T. Maturen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IvoryPenguin/moraine-messaging/issues"
+  },
+  "homepage": "https://github.com/IvoryPenguin/moraine-messaging",
+  "dependencies": {
+    "bluebird": "^2.9.14",
+    "lodash": "^3.5.0",
+    "stompit": "^0.20.0"
+  }
+}
